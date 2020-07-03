@@ -1,0 +1,77 @@
+Reno ----> San Francisco ----> Salt Lake City ----> Seattle ----> Las Vegas ----> Reno
+The path is 3338 miles
+
+Reno ----> San Francisco ----> Salt Lake City ----> Las Vegas ----> Seattle ----> Reno
+The path is 3194 miles
+
+Reno ----> San Francisco ----> Seattle ----> Salt Lake City ----> Las Vegas ----> Reno
+The path is 2716 miles
+
+Reno ----> San Francisco ----> Seattle ----> Las Vegas ----> Salt Lake City ----> Reno
+The path is 3080 miles
+
+Reno ----> San Francisco ----> Las Vegas ----> Salt Lake City ----> Seattle ----> Reno
+The path is 2743 miles
+
+Reno ----> San Francisco ----> Las Vegas ----> Seattle ----> Salt Lake City ----> Reno
+The path is 3251 miles
+
+Reno ----> Salt Lake City ----> San Francisco ----> Seattle ----> Las Vegas ----> Reno
+The path is 3616 miles
+
+Reno ----> Salt Lake City ----> San Francisco ----> Las Vegas ----> Seattle ----> Reno
+The path is 3643 miles
+
+Reno ----> Salt Lake City ----> Seattle ----> San Francisco ----> Las Vegas ----> Reno
+The path is 3165 miles
+
+Reno ----> Salt Lake City ----> Seattle ----> Las Vegas ----> San Francisco ----> Reno
+The path is 3251 miles
+
+Reno ----> Salt Lake City ----> Las Vegas ----> San Francisco ----> Seattle ----> Reno
+The path is 3021 miles
+
+Reno ----> Salt Lake City ----> Las Vegas ----> Seattle ----> San Francisco ----> Reno
+The path is 3080 miles
+
+Reno ----> Seattle ----> San Francisco ----> Salt Lake City ----> Las Vegas ----> Reno
+The path is 3108 miles
+
+Reno ----> Seattle ----> San Francisco ----> Las Vegas ----> Salt Lake City ----> Reno
+The path is 3021 miles
+
+Reno ----> Seattle ----> Salt Lake City ----> San Francisco ----> Las Vegas ----> Reno
+The path is 3279 miles
+
+Reno ----> Seattle ----> Salt Lake City ----> Las Vegas ----> San Francisco ----> Reno
+The path is 2743 miles
+
+Reno ----> Seattle ----> Las Vegas ----> San Francisco ----> Salt Lake City ----> Reno
+The path is 3643 miles
+
+Reno ----> Seattle ----> Las Vegas ----> Salt Lake City ----> San Francisco ----> Reno
+The path is 3194 miles
+
+Reno ----> Las Vegas ----> San Francisco ----> Salt Lake City ----> Seattle ----> Reno
+The path is 3279 miles
+
+Reno ----> Las Vegas ----> San Francisco ----> Seattle ----> Salt Lake City ----> Reno
+The path is 3165 miles
+
+Reno ----> Las Vegas ----> Salt Lake City ----> San Francisco ----> Seattle ----> Reno
+The path is 3108 miles
+
+Reno ----> Las Vegas ----> Salt Lake City ----> Seattle ----> San Francisco ----> Reno
+The path is 2716 miles
+
+Reno ----> Las Vegas ----> Seattle ----> San Francisco ----> Salt Lake City ----> Reno
+The path is 3616 miles
+
+Reno ----> Las Vegas ----> Seattle ----> Salt Lake City ----> San Francisco ----> Reno
+The path is 3338 miles
+
+----------------------------------------------
+The minimum path is: 
+Reno ----> San Francisco ----> Salt Lake City ----> Seattle ----> Las Vegas ----> Reno
+which takes 2716 miles
+----------------------------------------------
